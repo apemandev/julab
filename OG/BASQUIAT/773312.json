@@ -1,0 +1,14 @@
+[
+    {
+        "text": "POP-Up-Test",
+        "image": "http://rwwz8fm50.hn-bkt.clouddn.com/POPUP/album/album_popup.jpg",
+        "color": "",
+        "frames": [
+            "http://rwwz8fm50.hn-bkt.clouddn.com/POPUP/frames/frame_basquiat_5.png",
+            "http://rwwz8fm50.hn-bkt.clouddn.com/POPUP/frames/frame_basquiat_4.png",
+            "http://rwwz8fm50.hn-bkt.clouddn.com/POPUP/frames/frame_basquiat_3.png",
+            "http://rwwz8fm50.hn-bkt.clouddn.com/POPUP/frames/frame_basquiat_2.png",
+            "http://rwwz8fm50.hn-bkt.clouddn.com/POPUP/frames/frame_basquiat_1.png"
+        ]
+    }
+]

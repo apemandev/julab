@@ -1,0 +1,15 @@
+[
+    {
+        "text":"POPUP",
+        "image":"http://rwwz8fm50.hn-bkt.clouddn.com/album/album_popup.jpg",
+        "frames":[
+            "http://rwwz8fm50.hn-bkt.clouddn.com/frame/album_spectrum_1.png", "http://rwwz8fm50.hn-bkt.clouddn.com/frame/album_spectrum_2.png", "http://rwwz8fm50.hn-bkt.clouddn.com/frame/album_spectrum_3.png",
+ "http://rwwz8fm50.hn-bkt.clouddn.com/frame/album_spectrum_4.png",
+ "http://rwwz8fm50.hn-bkt.clouddn.com/frame/album_spectrum_5.png",
+ "http://rwwz8fm50.hn-bkt.clouddn.com/frame/album_spectrum_6.png",
+ "http://rwwz8fm50.hn-bkt.clouddn.com/frame/album_spectrum_7.png",
+ "http://rwwz8fm50.hn-bkt.clouddn.com/frame/album_spectrum_8.png"
+        ],
+        "color":""
+    }
+]

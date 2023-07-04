@@ -1,0 +1,19 @@
+[
+    {
+        "text": "MEMORIES",
+        "image": "http://192.168.0.109:8888/album/album_popup.jpg",
+        "color": "",
+        "frames": [
+            "http://192.168.0.109:8888/frames/frame_basquiat_4.png",
+            "http://192.168.0.109:8888/frames/frame_araki_6.png",
+            "http://192.168.0.109:8888/frames/frame_hot_2.png",
+            "http://192.168.0.109:8888/frames/frame_araki_4.png",
+            "http://192.168.0.109:8888/frames/frame_araki_5.png",
+            "http://192.168.0.109:8888/frames/frame_basquiat_3.png",
+            "http://192.168.0.109:8888/frames/frame_basquiat_2.png",
+            "http://192.168.0.109:8888/frames/frame_araki_2.png",
+            "http://192.168.0.109:8888/frames/frame_araki_3.png",
+            "http://192.168.0.109:8888/frames/frame_stranger_1_d.png"
+        ]
+    }
+]
